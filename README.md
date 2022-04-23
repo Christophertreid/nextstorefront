@@ -17,7 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Future Developments
 Future work could include additional areas of the website (articles, etc.) and additional category-specific pages (products currently have a category field)
 Additional work could also be completed to make the website more visually appealing.
-Current website homepage:
+### Current website homepage:
 ![image](https://user-images.githubusercontent.com/65042664/164873141-ac98a631-200c-489f-8e50-58ab90d2759e.png)
 
 ## Deploy on Vercel

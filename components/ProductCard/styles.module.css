@@ -1,0 +1,39 @@
+ .productcard{
+    width: 20rem;
+    padding: 2rem;
+    margin: 1rem;
+    box-shadow: 0px 0px 2px 2px #DCDADA;
+    border-radius: 0.5rem;
+    text-align: center;
+ }
+ .productcard div{
+     display: flex;
+     justify-content: space-between;
+ }
+ .productcard button{
+    width: 80%;
+    background-color: #0A616F;
+    color: #fff;
+    border: none;
+    border-radius: 0.25rem;
+    margin-top: 1rem;
+    padding: 0.5rem;
+ }
+ .productcard h2{
+    color: #0A616F;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 0.5rem;
+    height: 90px;
+ }
+ .productcard p{
+    font-style: italic;
+    text-align: left;
+    margin-top: 1rem;
+    height: 192px;
+ }
+ .details{
+    color: #F23015;
+    font-size: 1.125rem;
+    font-weight: bold;
+ }

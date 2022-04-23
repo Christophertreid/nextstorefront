@@ -1,0 +1,23 @@
+.main{
+  margin: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.h2{
+  font-size: 2rem;
+  color:#0A616F;
+  width: 100%;
+}
+.hero{
+  width: 100vw;
+  overflow: hidden;
+  position: relative;
+}
+.heroimage{
+  position: absolute;
+  object-fit: fill;
+}
+.container{
+  max-width: 1920px;
+  margin: 0 auto;
+}
